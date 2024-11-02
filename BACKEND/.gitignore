@@ -1,0 +1,5 @@
+.env
+/uploaded_files
+/vector_stores
+/.venv
+__pycache__

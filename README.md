@@ -97,4 +97,8 @@ POST /ask
 
 ## DEMO VIDEO AND SNIPPETS
 
+
+https://github.com/user-attachments/assets/919de13e-9bf7-4feb-9ec2-8161618c8b8b
+
+
 ### In case of any issue please contact at <a href="mailto:dhruvkumar9115@gmail.com">Dhruv Kumar</a>
